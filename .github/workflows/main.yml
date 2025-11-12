@@ -1,0 +1,8 @@
+auction-scraper/
+│
+├─ auction-scraper.js
+├─ package.json
+├─ service-account.json      ← your Google credentials
+└─ .github/
+   └─ workflows/
+      └─ scrape.yml

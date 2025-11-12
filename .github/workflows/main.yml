@@ -2,7 +2,7 @@ auction-scraper/
 │
 ├─ auction-scraper.js
 ├─ package.json
-├─ service-account.json      ← your Google credentials
+├─ auction-scraper-478011-7d428086d654.json
 └─ .github/
    └─ workflows/
       └─ scrape.yml
